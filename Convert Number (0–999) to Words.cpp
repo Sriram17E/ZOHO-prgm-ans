@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-string ones[] = {"", "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine"};
+string ones[] = {"", "One", "Two", "Three", "Four  ", "Five", "Six", "Seven", "Eight", "Nine"};
 string teens[] = {"Ten", "Eleven", "Twelve", "Thirteen", "Fourteen",
                   "Fifteen", "Sixteen", "Seventeen", "Eighteen", "Nineteen"};
 string tens[] = {"", "", "Twenty", "Thirty", "Forty", "Fifty", "Sixty", "Seventy", "Eighty", "Ninety"};
@@ -46,9 +46,8 @@ int main() {
 }
 
 
-
-input:
-Enter number (0 - 999): 0
-output:
-Zero
+//input:
+//Enter number (0 - 999): 0
+//output:
+//Zero
 
